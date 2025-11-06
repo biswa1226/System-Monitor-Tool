@@ -1,0 +1,10 @@
+# Ignore compiled binary and object files
+monitor
+*.o
+*.out
+*.exe
+
+# Ignore backup and temp files
+*~
+*.swp
+.vscode/
