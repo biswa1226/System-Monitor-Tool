@@ -2,7 +2,7 @@
 
 ### 📘 Objective
 A simple Linux-based system monitor built in **C++**, which displays real-time CPU usage, memory usage, and running process count by reading data from the `/proc` file system.  
-This project was developed as part of the **Wipro Capstone Project (Linux System Programming)**.
+This project was developed as part of the ** Capstone Project (Linux System Programming)**.
 
 ---
 
