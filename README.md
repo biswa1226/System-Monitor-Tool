@@ -25,3 +25,5 @@ This project was developed as part of the ** Capstone Project (Linux System Prog
 ```bash
 g++ main.cpp -o monitor
 ./monitor
+
+![alt text](https://github.com/biswa1226/System-Monitor-Tool/blob/f249875ddb64d37620d073a557fa38b0d595f639/Screenshot%202025-11-07%20103823.png)
